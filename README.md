@@ -22,8 +22,8 @@ A lot of crappy code.
 
 ## What’s inside
 - A large collection of small routines and helper functions (general utilities, string manipulation, file and path helpers, registry helpers, simple UI helpers, API wrappers, etc.).
-- Several classes and user controls.
-- A few components that were and is still considered useful.
+- Several classes and modules.
+- A few components that may still be considered useful.
 - Some deprecated or platform-specific code that will not work on modern Windows without modification.
 
 ---
@@ -38,4 +38,5 @@ Copyright © Ubehage
 ## Credits
 
 Created by Ubehage  
+
 [GitHub Profile](https://github.com/Ubehage)
